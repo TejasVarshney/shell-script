@@ -7,7 +7,7 @@ echo $variable
 #we can't use commands names as a variable name
 
 name="Tejas"
-rollno = "10313"
+rollno="10313"
 batch="B"
 
 echo "My name is $name"
